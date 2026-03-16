@@ -172,7 +172,7 @@ canteen:
 catalyst: # U09G5KPFTSL
   - ttl: 600
     type: CNAME
-    value: cname.vercel-dns.com
+    value: cname.vercel-dns.com.
   
 channels: # an API for getting slack channels and their IDs
   ttl: 600
